@@ -67,6 +67,9 @@ Options:
 
           [default: 1000]
 
+  -s, --skip-header
+          Skip first line, e.g. header of a csv file
+
   -h, --help
           Print help (see a summary with '-h')
 
